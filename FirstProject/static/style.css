@@ -1,0 +1,46 @@
+
+header{
+    background-image: url("bageri.jpg"); 
+    background-size: cover;
+    color: aliceblue;
+    padding: 3em;
+    text-align: center;  
+    border: 4px rgb(0, 0, 0) solid
+}
+
+a {
+    color:rgb(255, 255, 255);
+}
+a:visited {
+    color: rgba(255, 0, 43, 0.486);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+body{
+    max-width: 50em;
+    margin: auto; background-color: bisque;
+    padding: 1em;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5;
+    margin: 0 auto;
+    content: background black;
+    
+    
+}
+
+nav>ul>li {
+    display: inline;
+    margin-right: 3em;
+}
+
+footer{
+    text-align: center;
+    padding: 2em;
+}
+
